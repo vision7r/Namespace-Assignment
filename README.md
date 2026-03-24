@@ -17,6 +17,7 @@ veth-br0-r                     veth-br1-r
 
 ## IP Addressing Scheme
 ns1: 10.0.1.10/24 (Default Gateway: 10.0.1.0)
+
 ns2: 10.0.2.10/24 (Default Gateway: 10.0.2.0)
 router-ns:
   - veth-r0: 10.0.1.1/24
