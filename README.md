@@ -1,7 +1,7 @@
 # Linux Network Namespace Simulation Assignment
 
 ## Project Overview
-এই প্রজেক্টে আমরা Linux Network Namespaces ব্যবহার করে দুইটা আলাদা নেটওয়ার্ক তৈরি করেছি এবং একটা Router Namespace দিয়ে তাদের মধ্যে রাউটিং সেটআপ করেছি।
+Linux Network Namespaces ব্যবহার করে দুইটা আলাদা নেটওয়ার্ক তৈরি করেছি এবং একটা Router Namespace দিয়ে তাদের মধ্যে রাউটিং সেটআপ করেছি।
 
 ## Topology Diagram
 Network 1 (10.0.1.0/24)          Network 2 (10.0.2.0/24)
